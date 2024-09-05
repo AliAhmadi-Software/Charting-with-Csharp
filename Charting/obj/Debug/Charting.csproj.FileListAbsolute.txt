@@ -1,0 +1,19 @@
+c:\users\abdullah20\documents\visual studio 2013\Projects\Charting\Charting\bin\Debug\Charting.exe.config
+c:\users\abdullah20\documents\visual studio 2013\Projects\Charting\Charting\bin\Debug\Charting.exe
+c:\users\abdullah20\documents\visual studio 2013\Projects\Charting\Charting\bin\Debug\Charting.pdb
+c:\users\abdullah20\documents\visual studio 2013\Projects\Charting\Charting\obj\Debug\Charting.csprojResolveAssemblyReference.cache
+c:\users\abdullah20\documents\visual studio 2013\Projects\Charting\Charting\obj\Debug\Charting.frmMain.resources
+c:\users\abdullah20\documents\visual studio 2013\Projects\Charting\Charting\obj\Debug\Charting.Properties.Resources.resources
+c:\users\abdullah20\documents\visual studio 2013\Projects\Charting\Charting\obj\Debug\Charting.csproj.GenerateResource.Cache
+c:\users\abdullah20\documents\visual studio 2013\Projects\Charting\Charting\obj\Debug\Charting.exe
+c:\users\abdullah20\documents\visual studio 2013\Projects\Charting\Charting\obj\Debug\Charting.pdb
+D:\F\Charting\Charting\Charting\bin\Debug\Charting.exe.config
+D:\F\Charting\Charting\Charting\obj\Debug\Charting.exe
+D:\F\Charting\Charting\Charting\obj\Debug\Charting.pdb
+D:\F\Charting\Charting\Charting\obj\Debug\Charting.csprojResolveAssemblyReference.cache
+D:\F\Charting\Charting\Charting\obj\Debug\Charting.frmMain.resources
+D:\F\Charting\Charting\Charting\obj\Debug\Charting.Properties.Resources.resources
+D:\F\Charting\Charting\Charting\obj\Debug\Charting.csproj.GenerateResource.Cache
+D:\F\Charting\Charting\Charting\bin\Debug\Charting.exe
+D:\F\Charting\Charting\Charting\bin\Debug\Charting.pdb
+D:\F\Charting\Charting\Charting\obj\Debug\Charting.frmSetting.resources
